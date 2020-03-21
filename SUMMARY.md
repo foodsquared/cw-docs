@@ -3,7 +3,6 @@
 * [Overview](README.md)
 * [Getting Started](getting-started/README.md)
   * [Hardware Requirements](getting-started/hardware-requirements-1.md)
-  * [10-Minute Quickstart](getting-started/10-minute-quickstart.md)
   * [Setup Your Menus](getting-started/setup-your-menus.md)
   * [Configure Your Services](getting-started/configure-your-services.md)
   * [Customize Your Design](getting-started/customize-your-design.md)
@@ -21,9 +20,4 @@
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
-  * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
-* [Resellers](resellers/README.md)
-  * [Overview](resellers/overview.md)
-  * [Getting Started](resellers/getting-started.md)
-  * [Documentation](resellers/documentation.md)
 
